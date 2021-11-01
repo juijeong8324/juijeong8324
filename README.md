@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=UJ%20Repo&fontSize=90)
    
 # Introduce
-
+조금만 기다려~~~!!!
 # Repo
 
 # Stats 
