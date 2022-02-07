@@ -12,5 +12,5 @@
 
 
 # Stats     
-후 저의 백준 뱃지 입니다. 많이 부끄럽네요!!! 하지만.. 이번 겨울 방학 때.. 골드로 만들어보겠습니다!!!!!(꿈은 크게!!)        
+      
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qnddlek2)](https://solved.ac/qnddlek2)
