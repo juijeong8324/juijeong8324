@@ -25,9 +25,9 @@ I like..Challenge, Change, Unique, Music, (BTS)
 
 ### Experience
 🦁**멋쟁이 사자처럼 at SeoulTech X UOS : 20.04 ~ 20.12**          
-🌈**GDSC(Google Developer Student Clubs) Seoultech CORE : 21.12 ~ 22.02.06** - [링크](https://gdsckoreahackathon2022.github.io/#/)           
-🌈**2022 GDSC KR Winter Hack Staff : 21.08 ~ ing**  
-😎**Tools Leader : 22.02 ~ ing**              
+🌈**GDSC(Google Developer Student Clubs) Seoultech CORE : 21.12 ~ 22.02.06** - [링크](https://gdsc-seoultech.github.io/)         
+🌈**2022 GDSC KR Winter Hack Staff : 21.08 ~ ing**  - [링크](https://gdsckoreahackathon2022.github.io/#/)
+😎**Tools Leader : 22.02 ~ ing** - [링크](https://tools.tistory.com/)             
 
 <br>
 
