@@ -35,8 +35,9 @@ I like..Challenge, Change, Unique, Music, (BTS)
 <br>
 
 ### My Project            
-|제목|기간|링크|
+|Project|Date|Link|
 |---|---|---|
+|GDSC seoultech blog member page|2021.09~2021.||
 <br> 
 
 ### Stats     
