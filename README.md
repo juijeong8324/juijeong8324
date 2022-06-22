@@ -30,17 +30,21 @@ I like..Challenge, Change, Unique, Music
 🦁**멋쟁이 사자처럼 at SeoulTech X UOS : 20.04 ~ 20.12**          
 🌈**GDSC(Google Developer Student Clubs) Seoultech CORE : 21.12 ~ 22.02.06** - [링크](https://gdsc-seoultech.github.io/)         
 🌈**2022 GDSC KR Winter Hack Staff : 21.08 ~ ing**  - [링크](https://gdsckoreahackathon2022.github.io/#/)                 
-😎**Tools Leader : 22.02 ~ ing**          
+😎**Tools Leader : 22.02 ~ ing** 
+🌈**2022 Google I/O Extended: Summer Off-festival Staff : 22.05 ~ ing** - [링크](https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-google-io-extended-summer-off-festival/)
 
 <br>
 
 ### My Project            
 |Project|Language&Environment|Date|Link|
 |---|---|---|---|
-|스마트폰 중독 방지|Arduio IDE, C|2021.5|[LINK](https://blog.naver.com/gurum8021/222355386305)|
-|거북이 시리즈(난 목으로도 춤을 춰)|C#, Unity|2021.8|[REPO](),[LINK](https://blog.naver.com/gurum8021/222452763544)|
+|붕어방 수질 관리 안내 프로그램|python|2020.07~08||
+|스마트폰 중독 방지|Arduio IDE, C|2021.5|[BLOG](https://blog.naver.com/gurum8021/222355386305)|
+|거북이 시리즈(난 목으로도 춤을 춰)|C#, Unity|2021.8|[REPO](https://github.com/juijeong8324/TurtleFriends), [BLOG](https://blog.naver.com/gurum8021/222452763544)|
+|Momentrip|Andriod Stdio, Java|2021.05~12|[REPO](), [BLOG]()|
 |GDSC seoultech blog member page|markdown,javascript|2021.09~2021.|[LINK](https://gdsc-seoultech.github.io/members/)|
-||||
+|2022 Google Solution Challenge, TouchMyCoding|Flask, python, Google Cloud Vision API|2021.12~04|[REPO]()|
+|Tetris team project|Java, Java Swing|2022.02~05|[REPO](), [Notion](https://www.notion.so/SE-9a7db99cc59247d795e8db65551cb87c)|
 <br> 
 
 ### Stats     
