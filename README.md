@@ -37,8 +37,8 @@ I like..Challenge, Change, Unique, Music
 ### My Project            
 |Project|Language&Environment|Date|Link|
 |---|---|---|---|
-|스마트폰 중독 방지|Aduio||
-|거북이가 친구하자고 하겠어|C#, Unity||
+|스마트폰 중독 방지|Arduio IDE, C|2021.5|[LINK](https://blog.naver.com/gurum8021/222355386305)|
+|거북이 시리즈(난 목으로도 춤을 춰)|C#, Unity|2021.8|[REPO](),[LINK](https://blog.naver.com/gurum8021/222452763544)|
 |GDSC seoultech blog member page|markdown,javascript|2021.09~2021.|[LINK](https://gdsc-seoultech.github.io/members/)|
 ||||
 <br> 
