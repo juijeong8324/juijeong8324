@@ -15,7 +15,7 @@ Hi there~ I am Uijeong Jeon!
 I am interested in every development skills! 
 (I'll decide on my field soon..😂)
 
-I like..Challenge, Change, Unique, Music, (BTS)     
+I like..Challenge, Change, Unique, Music   
 <br>
 
 **My goal is** 
@@ -35,9 +35,12 @@ I like..Challenge, Change, Unique, Music, (BTS)
 <br>
 
 ### My Project            
-|Project|Date|Link|
-|---|---|---|
-|GDSC seoultech blog member page|2021.09~2021.||
+|Project|Language&Environment|Date|Link|
+|---|---|---|---|
+|스마트폰 중독 방지|Aduio||
+|거북이가 친구하자고 하겠어|C#, Unity||
+|GDSC seoultech blog member page|markdown,javascript|2021.09~2021.|[LINK](https://gdsc-seoultech.github.io/members/)|
+||||
 <br> 
 
 ### Stats     
