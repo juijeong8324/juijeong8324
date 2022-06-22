@@ -52,9 +52,10 @@ These are refactoring!!!
 <br> 
 
 ### My Study
-Spring Study in Tools
-ML/DL Study in GDSC seoultech 
-React Study in Tools
+Spring Study in Tools 
+Android Study in Tools
+ML/DL Study in GDSC seoultech         
+React Study in Tools        
 
 
 ### Stats     
