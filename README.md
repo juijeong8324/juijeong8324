@@ -30,7 +30,7 @@ I like..Challenge, Change, Unique, Music
 🦁**멋쟁이 사자처럼 at SeoulTech X UOS : 20.04 ~ 20.12**          
 🌈**GDSC(Google Developer Student Clubs) Seoultech CORE : 21.12 ~ 22.02.06** - [링크](https://gdsc-seoultech.github.io/)         
 🌈**2022 GDSC KR Winter Hack Staff : 21.08 ~ ing**  - [링크](https://gdsckoreahackathon2022.github.io/#/)                 
-😎**Tools Leader : 22.02 ~ ing** 
+😎**Tools Leader : 22.02 ~ ing**             
 🌈**2022 Google I/O Extended: Summer Off-festival Staff : 22.05 ~ ing** - [링크](https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-google-io-extended-summer-off-festival/)
 
 <br>
