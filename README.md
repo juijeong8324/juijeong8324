@@ -27,7 +27,7 @@ I like..Challenge, Change, Unique, Music
 
 
 ### Experience
-🦁**멋쟁이 사자처럼 at SeoulTech X UOS : 20.04 ~ 20.12**          
+🦁**멋쟁이 사자처럼 at SeoulTech X UOS : 20.04 ~ 20.12** - 기부니가 좋다(기부 문화 개선 및 소상공인을 돕는 스타트업)         
 🌈**GDSC(Google Developer Student Clubs) Seoultech CORE : 21.12 ~ 22.02.06** - [링크](https://gdsc-seoultech.github.io/)         
 🌈**2022 GDSC KR Winter Hack Staff : 21.08 ~ ing**  - [링크](https://gdsckoreahackathon2022.github.io/#/)                 
 😎**Tools Leader : 22.02 ~ ing**             
