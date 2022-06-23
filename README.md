@@ -60,4 +60,4 @@ React Study in Tools
 
 
 ### Stats     
-![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qnddlek2)](https://solved.ac/qnddlek2)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qnddlek2)](https://solved.ac/qnddlek2)
