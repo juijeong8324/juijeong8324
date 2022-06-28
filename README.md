@@ -15,7 +15,6 @@ Hi there~ I am Uijeong Jeon!
 I am interested in every development skills! 
 (I'll decide on my field soon..😂)
 
-I like..Challenge, Change, Unique, Music   
 <br>
 
 **My goal is** 
