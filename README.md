@@ -31,7 +31,7 @@ I am interested in every development skills!
 🌈**2022 GDSC KR Winter Hack Staff : 21.08 ~ ing**  - [링크](https://gdsckoreahackathon2022.github.io/#/)                 
 😎**Tools Leader : 22.02 ~ ing**             
 🌈**2022 Google I/O Extended: Summer Off-festival Staff : 22.05 ~ ing** - [링크](https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-google-io-extended-summer-off-festival/)       
-          
+💻**2022 Open Source Contribution Academy: 22.07~22.10** - [NHN Toast Power Platform Connector](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector)           
 <br>
      
 ### My Project            
