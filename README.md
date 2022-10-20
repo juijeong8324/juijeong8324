@@ -43,7 +43,7 @@ I am interested in every development skills!
 ### My Project            
 |Project|Language&Environment|Date|Link|
 |---|---|---|---|
-|붕어방 수질 관리 안내 프로그램|python|2020.07~08||
+|붕어방 수질 관리 안내 프로그램|python, Qt5(Framework)|2020.07~08||
 |스마트폰 중독 방지|Arduio IDE, C|2021.5|[BLOG](https://blog.naver.com/gurum8021/222355386305), [VIDEO](https://youtu.be/Am04_Vjy2po)|
 |거북이 시리즈(난 목으로도 춤을 춰)|C#, Unity|2021.8|[REPO](https://github.com/juijeong8324/TurtleFriends), [BLOG](https://blog.naver.com/gurum8021/222452763544)|
 |Momentrip|Andriod Stdio, Java|2021.05~12|[REPO](https://github.com/juijeong8324/Momentrip), [Notion](https://weak-meteoroid-883.notion.site/MomenTrip-a662703a6b7c41709bc1ab084a4f051c)|
@@ -60,9 +60,10 @@ More projects to come!
 
 
 ### My Study
-Spring Study in Tools         
-Android Study in Tools        
-ML/DL Study in GDSC seoultech               
+Spring Study in Tools [Github](https://github.com/junyoii/we_study_spring) 
+Spring Boot JPA Study in Tools [Github](https://github.com/oh980225/JPA_Study)
+Android Study in Tools [Notion](https://weak-meteoroid-883.notion.site/Android-App-programming-791ca9675497411db788ef2350d4b4d7)       
+ML/DL Study in GDSC seoultech [Blog](https://gdsc-seoultech.github.io/category/1st_term?tag=ml)              
 React Study in Tools                
 
 
