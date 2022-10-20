@@ -60,10 +60,10 @@ More projects to come!
 
 
 ### My Study
-Spring Study in Tools [Github](https://github.com/junyoii/we_study_spring) 
-Spring Boot JPA Study in Tools [Github](https://github.com/oh980225/JPA_Study)
-Android Study in Tools [Notion](https://weak-meteoroid-883.notion.site/Android-App-programming-791ca9675497411db788ef2350d4b4d7)       
-ML/DL Study in GDSC seoultech [Blog](https://gdsc-seoultech.github.io/category/1st_term?tag=ml)              
+Spring Study in Tools [Github](https://github.com/junyoii/we_study_spring)            
+Spring Boot JPA Study in Tools [Github](https://github.com/oh980225/JPA_Study)            
+Android Study in Tools [Notion](https://weak-meteoroid-883.notion.site/Android-App-programming-791ca9675497411db788ef2350d4b4d7)                   
+ML/DL Study in GDSC seoultech [Blog](https://gdsc-seoultech.github.io/category/1st_term?tag=ml)                             
 React Study in Tools                
 
 
