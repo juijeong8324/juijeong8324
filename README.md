@@ -49,7 +49,7 @@ I am interested in every development skills!
 |Momentrip|Andriod Stdio, Java|2021.05~12|[REPO](https://github.com/juijeong8324/Momentrip), [Notion](https://weak-meteoroid-883.notion.site/MomenTrip-a662703a6b7c41709bc1ab084a4f051c)|
 |GDSC seoultech blog member page|markdown,javascript|2021.09~2021.|[LINK](https://gdsc-seoultech.github.io/members/)|
 |색상을 보고 키워드를 도출하는 솔루션|python, openCV|2022.01|[REPO](https://github.com/juijeong8324/ReadColor)|
-|2022 Google Solution Challenge, TouchMyCoding|Flask, python, Google Cloud Vision API|2021.12~04|[REPO](https://github.com/gdsc-seoultech/touch_my_coding_back)|
+|2022 Google Solution Challenge, TouchMyCoding|Flask, python, Google Cloud Vision API|2021.12~04|[REPO](https://github.com/gdsc-seoultech/touch_my_coding_back), [VIDEO](https://youtu.be/Mr5j7ncXz4E)|
 |Tetris team project|Java, Java Swing|2022.02~05|[REPO](https://github.com/SE10team/Tetris_final), [Notion](https://www.notion.so/SE-9a7db99cc59247d795e8db65551cb87c)|
 |NHN Toast Power Platform Connector|C#, .NET, Azure, NHN Cloud, OpenAPI|2022.07~|[REPO](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector), [BLOG](https://velog.io/@juijeong8324/series/OSSCA)|
 
