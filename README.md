@@ -62,7 +62,8 @@ More projects to come!
 ### My Study
 Spring Study in Tools [Github](https://github.com/junyoii/we_study_spring)            
 Spring Boot JPA Study in Tools [Github](https://github.com/oh980225/JPA_Study)            
-Android Study in Tools [Notion](https://weak-meteoroid-883.notion.site/Android-App-programming-791ca9675497411db788ef2350d4b4d7)                   
+Android Study in Tools [Notion](https://weak-meteoroid-883.notion.site/Android-App-programming-791ca9675497411db788ef2350d4b4d7)  
+Kaggle Study [Blog](https://velog.io/@juijeong8324/series/%EC%BA%90%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94)
 ML/DL Study in GDSC seoultech [Blog](https://gdsc-seoultech.github.io/category/1st_term?tag=ml)                             
 React Study in Tools                
 
