@@ -47,7 +47,7 @@ I am interested in every development skills!
 |스마트폰 중독 방지|Arduio IDE, C|2021.5|[BLOG](https://blog.naver.com/gurum8021/222355386305), [VIDEO](https://youtu.be/Am04_Vjy2po)|
 |거북이 시리즈(난 목으로도 춤을 춰)|C#, Unity|2021.8|[REPO](https://github.com/juijeong8324/TurtleFriends), [BLOG](https://blog.naver.com/gurum8021/222452763544)|
 |Momentrip|Andriod Stdio, Java|2021.05~12|[REPO](https://github.com/juijeong8324/Momentrip), [Notion](https://weak-meteoroid-883.notion.site/MomenTrip-a662703a6b7c41709bc1ab084a4f051c)|
-|GDSC seoultech blog member page|markdown,javascript|2021.09~2021.|[LINK](https://gdsc-seoultech.github.io/members/)|
+|GDSC seoultech blog member page|markdown,javascript|2021.09~2021.|[LINK](https://gdsc-seoultech.github.io/members/1)|
 |색상을 보고 키워드를 도출하는 솔루션|python, openCV|2022.01|[REPO](https://github.com/juijeong8324/ReadColor)|
 |2022 Google Solution Challenge, TouchMyCoding|Flask, python, Google Cloud Vision API|2021.12~04|[REPO](https://github.com/gdsc-seoultech/touch_my_coding_back), [VIDEO](https://youtu.be/Mr5j7ncXz4E)|
 |Tetris team project|Java, Java Swing|2022.02~05|[REPO](https://github.com/SE10team/Tetris_final), [Notion](https://www.notion.so/SE-9a7db99cc59247d795e8db65551cb87c)|
