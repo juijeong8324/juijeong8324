@@ -9,6 +9,9 @@
 <a href="https://blog.naver.com/gurum8021" target="_blank">
 <img src="https://img.shields.io/badge/naver-20c997?style=flat-square&logo=Naver&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/jeon01/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
 
 ### Introduce
 Hi there~ I am Uijeong Jeon!         
