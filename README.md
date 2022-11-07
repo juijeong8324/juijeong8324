@@ -35,7 +35,8 @@ I am interested in every development skills!
 🌈**2022 GDSC KR Winter Hack Staff : 21.08 ~ ing**  - [링크](https://gdsckoreahackathon2022.github.io/#/)                 
 😎**Tools Leader : 22.02 ~ ing**             
 🌈**2022 Google I/O Extended: Summer Off-festival Staff : 22.05 ~ 07** - [링크](https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-google-io-extended-summer-off-festival/)       
-💻**2022 Open Source Contribution Academy Lead Ment : Masters, 22.08~22.10** - [NHN Toast Power Platform Connector](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector)
+💻**2022 Open Source Contribution Academy Lead Ment : Masters, 22.08~22.10** - [NHN Toast Power Platform Connector](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector)            
+**Google Compose Camp** - [](https://developersonair.withgoogle.com/events/composecamp_22kr#)
 <br>
 
 #### Open Source
@@ -69,7 +70,7 @@ Android Study in Tools [Notion](https://weak-meteoroid-883.notion.site/Android-A
 Kaggle Study [Blog](https://velog.io/@juijeong8324/series/%EC%BA%90%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94)
 ML/DL Study in GDSC seoultech [Blog](https://gdsc-seoultech.github.io/category/1st_term?tag=ml)                             
 React Study in Tools                
-
+Design Pattern in Tools
 
 ### Stats              
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qnddlek2)](https://solved.ac/qnddlek2)
