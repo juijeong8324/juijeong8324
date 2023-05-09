@@ -47,18 +47,19 @@ I am interested in Backend, Cloud, AI(actually.. every development skills 😂)
 ### My Project            
 |Project|Language&Environment|Date|Link|
 |---|---|---|---|
-|붕어방 수질 관리 안내 프로그램|python, Qt5(Framework)|2020.07~08||
-|스마트폰 중독 방지|Arduio IDE, C|2021.5|[BLOG](https://blog.naver.com/gurum8021/222355386305), [VIDEO](https://youtu.be/Am04_Vjy2po)|
-|거북이 시리즈(난 목으로도 춤을 춰)|C#, Unity|2021.8|[REPO](https://github.com/juijeong8324/TurtleFriends), [BLOG](https://blog.naver.com/gurum8021/222452763544)|
-|Momentrip|Andriod Stdio, Java|2021.05~12|[REPO](https://github.com/juijeong8324/Momentrip), [Notion](https://weak-meteoroid-883.notion.site/MomenTrip-a662703a6b7c41709bc1ab084a4f051c)|
-|GDSC seoultech blog member page|markdown,javascript|2021.09~2021.10|[LINK](https://gdsc-seoultech.github.io/members/1)|
-|색상을 보고 키워드를 도출하는 솔루션|python, openCV|2022.01|[REPO](https://github.com/juijeong8324/ReadColor)|
-|2022 Google Solution Challenge, TouchMyCoding|Flask, python, Google Cloud Vision API|2021.12~04|[REPO](https://github.com/gdsc-seoultech/touch_my_coding_back), [VIDEO](https://youtu.be/Mr5j7ncXz4E)|
-|Tetris team project|Java, Java Swing|2022.02~05|[REPO](https://github.com/SE10team/Tetris_final), [Notion](https://www.notion.so/SE-9a7db99cc59247d795e8db65551cb87c)|
-|NHN Toast Power Platform Connector|C#, .NET, Azure, NHN Cloud, OpenAPI|2022.07~2022.10|[REPO](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector), [BLOG](https://velog.io/@juijeong8324/series/OSSCA)|
-|[유방암의 임파선 전이 예측 AI 경진대회](https://dacon.io/competitions/official/236011/overview/description)|Pytorch, Scikit-Learn, pandas, numpy, cv2, Albmentations |2022.9~2022.12| [REPO](https://drive.google.com/file/d/1zwhzGn8e1i7p-g0binhF_ZxguUusbFJI/view?usp=share_link)|
 |STPhotoZone|Android, Java, ARCore, Firebase|2022.9~2022.12|[REPO](https://github.com/STPhotoZone/photoZone)|
+|[유방암의 임파선 전이 예측 AI 경진대회](https://dacon.io/competitions/official/236011/overview/description)|Pytorch, Scikit-Learn, pandas, numpy, cv2, Albmentations |2022.9~2022.12| [REPO](https://drive.google.com/file/d/1zwhzGn8e1i7p-g0binhF_ZxguUusbFJI/view?usp=share_link)|
 |STPencil|React, JavaScript|2022.9~2022.12|[REPO](https://github.com/orgs/STPencil/repositories)|
+|NHN Toast Power Platform Connector|C#, .NET, Azure, NHN Cloud, OpenAPI|2022.07~2022.10|[REPO](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector), [BLOG](https://velog.io/@juijeong8324/series/OSSCA)|
+|Tetris team project|Java, Java Swing|2022.02~05|[REPO](https://github.com/SE10team/Tetris_final), [Notion](https://www.notion.so/SE-9a7db99cc59247d795e8db65551cb87c)|
+|2022 Google Solution Challenge, TouchMyCoding|Flask, python, Google Cloud Vision API|2021.12~04|[REPO](https://github.com/gdsc-seoultech/touch_my_coding_back), [VIDEO](https://youtu.be/Mr5j7ncXz4E)|
+|색상을 보고 키워드를 도출하는 솔루션|python, openCV|2022.01|[REPO](https://github.com/juijeong8324/ReadColor)|
+|GDSC seoultech blog member page|markdown,javascript|2021.09~2021.10|[LINK](https://gdsc-seoultech.github.io/members/1)|
+|Momentrip|Andriod Stdio, Java|2021.05~12|[REPO](https://github.com/juijeong8324/Momentrip), [Notion](https://weak-meteoroid-883.notion.site/MomenTrip-a662703a6b7c41709bc1ab084a4f051c)|
+|거북이 시리즈(난 목으로도 춤을 춰)|C#, Unity|2021.8|[REPO](https://github.com/juijeong8324/TurtleFriends), [BLOG](https://blog.naver.com/gurum8021/222452763544)|
+|스마트폰 중독 방지|Arduio IDE, C|2021.5|[BLOG](https://blog.naver.com/gurum8021/222355386305), [VIDEO](https://youtu.be/Am04_Vjy2po)|
+|붕어방 수질 관리 안내 프로그램|python, Qt5(Framework)|2020.07~08||
+
 
 These are refactoring!!😀        
 More projects to come!
