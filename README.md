@@ -47,7 +47,7 @@ I am interested in Backend, Cloud, AI(actually.. every development skills 😂)
 ### My Project            
 |Project|Language&Environment|Date|Link|
 |---|---|---|---|
-|STPhotoZone|Android, Java, ARCore, Firebase|2022.9~2022.12|[REPO](https://github.com/STPhotoZone/photoZone)|
+|STPhotoZone|Android, Java, ARCore, Firebase|2022.9~2022.12|[REPO](https://github.com/STPhotoZone/photoZone), [DEMO](https://www.youtube.com/watch?v=laC_sD8j0kU)|
 |[유방암의 임파선 전이 예측 AI 경진대회](https://dacon.io/competitions/official/236011/overview/description)|Pytorch, Scikit-Learn, pandas, numpy, cv2, Albmentations |2022.9~2022.12| [REPO](https://drive.google.com/file/d/1zwhzGn8e1i7p-g0binhF_ZxguUusbFJI/view?usp=share_link)|
 |STPencil|React, JavaScript|2022.9~2022.12|[REPO](https://github.com/orgs/STPencil/repositories)|
 |NHN Toast Power Platform Connector|C#, .NET, Azure, NHN Cloud, OpenAPI|2022.07~2022.10|[REPO](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector), [BLOG](https://velog.io/@juijeong8324/series/OSSCA)|
