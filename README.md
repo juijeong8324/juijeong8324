@@ -1,4 +1,4 @@
-# Welecome to My 💡Imagination Storage💡  
+# Welcome to My 💡Imagination Storage💡  
 
 <a href="https://github.com/juijeong8324" target="_blank">
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
