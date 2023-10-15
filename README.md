@@ -15,7 +15,7 @@
 
 ### Introduce
 Hi there~ I am Uijeong Jeon!         
-I am interested in Backend, Cloud, AI(actually.. every development skills 😂)                   
+I am interested in Backend, Cloud, Open Source(actually.. every development skills 😂)                   
 **Motto : Is it possible?:question: I will make it possible.:exclamation:** 
 
 <br>
@@ -35,18 +35,20 @@ I am interested in Backend, Cloud, AI(actually.. every development skills 😂)
 🌈**2022 GDSC KR Winter Hack Staff : 21.08 ~ ing**  - [링크](https://gdsckoreahackathon2022.github.io/#/)                 
 😎**Tools Leader : 22.02 ~ ing**             
 🌈**2022 Google I/O Extended: Summer Off-festival Staff : 22.05 ~ 07** - [링크](https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-google-io-extended-summer-off-festival/)       
-💻**2022 Open Source Contribution Academy Lead Ment : Masters, 22.08~22.10** - [NHN Toast Power Platform Connector](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector)            
+💻**2022 Open Source Contribution Academy Lead Ment : Masters, 22.08~22.10** - [NHN Toast Power Platform Connector](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector)
 
 <br>
 
 #### Open Source
 💻**2022 Open Source Contribution Academy: 22.07~22.10** - [NHN Toast Power Platform Connector](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector)   
+💻**2023 Open Source Contribution Academy: 23.07~23.10** - [Argo Workflows](https://github.com/ArgoWorkflows-OSS)  
 
 <br>
      
 ### My Project            
 |Project|Language&Environment|Date|Link|
 |---|---|---|---|
+|Argo Workflows|Go, Kubernetes, Container, TypeScript|2023.7~2023.10|[REPO](https://github.com/ArgoWorkflows-OSS), [BLOG](https://velog.io/@juijeong8324)|
 |STPhotoZone|Android, Java, ARCore, Firebase|2022.9~2022.12|[REPO](https://github.com/STPhotoZone/photoZone), [DEMO](https://www.youtube.com/watch?v=laC_sD8j0kU)|
 |[유방암의 임파선 전이 예측 AI 경진대회](https://dacon.io/competitions/official/236011/overview/description)|Pytorch, Scikit-Learn, pandas, numpy, cv2, Albmentations |2022.9~2022.12| [REPO](https://drive.google.com/file/d/1zwhzGn8e1i7p-g0binhF_ZxguUusbFJI/view?usp=share_link)|
 |STPencil|React, JavaScript|2022.9~2022.12|[REPO](https://github.com/orgs/STPencil/repositories)|
@@ -65,7 +67,6 @@ These are refactoring!!😀
 More projects to come!
 
 <br> 
-
 
 ### My Study
 Spring Study in Tools [Github](https://github.com/junyoii/we_study_spring)            
