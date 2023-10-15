@@ -41,7 +41,7 @@ I am interested in Backend, Cloud, Open Source(actually.. every development skil
 
 #### Open Source
 💻**2022 Open Source Contribution Academy: 22.07~22.10** - [NHN Toast Power Platform Connector](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector)   
-💻**2023 Open Source Contribution Academy: 23.07~23.10** - [Argo Workflows](https://github.com/ArgoWorkflows-OSS)  
+💻**2023 Open Source Contribution Academy(🏆First Prize!): 23.07~23.10** - [Argo Workflows](https://github.com/ArgoWorkflows-OSS)
 
 <br>
      
