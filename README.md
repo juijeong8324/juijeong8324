@@ -41,13 +41,19 @@ I am interested in Backend, Cloud, Open Source(actually.. every development skil
 
 #### Open Source
 💻**2022 Open Source Contribution Academy: 22.07~22.10** - [NHN Toast Power Platform Connector](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector)   
-💻**2023 Open Source Contribution Academy(🏆First Prize!): 23.07~23.10** - [Argo Workflows](https://github.com/ArgoWorkflows-OSS)
+💻**2023 Open Source Contribution Academy: 23.07~23.10** - [Argo Workflows](https://github.com/ArgoWorkflows-OSS)
+
+<br>
+
+#### Awards
+💻**2023 Open Source Contribution Academy** : 🏆First Prize(2023.12.01) - [Argo workflows](https://www.oss.kr/notice/show/53ba6af3-867d-45ad-a31c-ba576c4f1855)
 
 <br>
      
 ### My Project            
 |Project|Language&Environment|Date|Link|
 |---|---|---|---|
+|PLAIN|Kotlin, Android, Compose|2023.10.21~ing|PRIVATE!|
 |Argo Workflows|Go, Kubernetes, Container, TypeScript|2023.7~2023.10|[REPO](https://github.com/ArgoWorkflows-OSS), [BLOG](https://argoworkflows-oss.github.io/), [VELOG](https://velog.io/@juijeong8324)|
 |STPhotoZone|Android, Java, ARCore, Firebase|2022.9~2022.12|[REPO](https://github.com/STPhotoZone/photoZone), [DEMO](https://www.youtube.com/watch?v=laC_sD8j0kU)|
 |[유방암의 임파선 전이 예측 AI 경진대회](https://dacon.io/competitions/official/236011/overview/description)|Pytorch, Scikit-Learn, pandas, numpy, cv2, Albmentations |2022.9~2022.12| [REPO](https://drive.google.com/file/d/1zwhzGn8e1i7p-g0binhF_ZxguUusbFJI/view?usp=share_link)|
