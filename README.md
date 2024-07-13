@@ -36,6 +36,7 @@ I am interested in Backend, Cloud, Open Source(actually.. every development skil
 😎**Tools Leader : 22.02 ~ ing**             
 🌈**2022 Google I/O Extended: Summer Off-festival Staff : 22.05 ~ 07** - [링크](https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-google-io-extended-summer-off-festival/)       
 💻**2022 Open Source Contribution Academy Lead Ment : Masters, 22.08~22.10** - [NHN Toast Power Platform Connector](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector)
+✏️**2024 Summer Internship in SE lab** - Prolog, javascript, jqurey
 
 <br>
 
@@ -54,7 +55,7 @@ I am interested in Backend, Cloud, Open Source(actually.. every development skil
 |Project|Language&Environment|Date|Link|
 |---|---|---|---|
 |PLAIN|Kotlin, Android, Compose|2023.10.21~ing|PRIVATE!|
-|Argo Workflows|Go, Kubernetes, Container, TypeScript|2023.7~2023.11|[REPO](https://github.com/ArgoWorkflows-OSS), [BLOG](https://argoworkflows-oss.github.io/), [VELOG](https://velog.io/@juijeong8324)|
+|Argo Workflows|Go, Kubernetes, Container, TypeScript|2023.7~2023.11|[REPO](https://github.com/Argo-OSS/argo-workflows), [BLOG](https://argoworkflows-oss.github.io/), [VELOG](https://velog.io/@juijeong8324/series/2023-OSSCA)|
 |STPhotoZone|Android, Java, ARCore, Firebase|2022.9~2022.12|[REPO](https://github.com/STPhotoZone/photoZone), [DEMO](https://www.youtube.com/watch?v=laC_sD8j0kU)|
 |[유방암의 임파선 전이 예측 AI 경진대회](https://dacon.io/competitions/official/236011/overview/description)|Pytorch, Scikit-Learn, pandas, numpy, cv2, Albmentations |2022.9~2022.12| [REPO](https://drive.google.com/file/d/1zwhzGn8e1i7p-g0binhF_ZxguUusbFJI/view?usp=share_link)|
 |STPencil|React, JavaScript|2022.9~2022.12|[REPO](https://github.com/orgs/STPencil/repositories)|
