@@ -60,7 +60,7 @@ I am Uijeong Jeon!
 |PLAIN|Kotlin, Android, Compose|2023.10.21~2024.12|PRIVATE!|
 |Argo Workflows|Go, Kubernetes, Container, TypeScript|2023.7~2023.11|[REPO](https://github.com/Argo-OSS/argo-workflows), [BLOG](https://argoworkflows-oss.github.io/), [VELOG](https://velog.io/@juijeong8324/series/2023-OSSCA)|
 |STPhotoZone|Android, Java, ARCore, Firebase|2022.9~2022.12|[REPO](https://github.com/STPhotoZone/photoZone), [DEMO](https://www.youtube.com/watch?v=laC_sD8j0kU)|
-|[유방암의 임파선 전이 예측 AI 경진대회](https://dacon.io/competitions/official/236011/overview/description)|Pytorch, Scikit-Learn, pandas, numpy, cv2, Albmentations |2022.9~2022.12| [REPO](https://drive.google.com/file/d/1zwhzGn8e1i7p-g0binhF_ZxguUusbFJI/view?usp=share_link)|
+|[유방암의 임파선 전이 예측 AI 경진대회](https://dacon.io/competitions/official/236011/overview/description)|Pytorch, Scikit-Learn, pandas, numpy, cv2, Albmentations |2022.9~2022.12| [REPO](https://drive.google.com/file/d/1zwhzGn8e1i7p-g0binhF_ZxguUusbFJI/view?usp=sharing)|
 |NHN Toast Power Platform Connector|C#, .NET, Azure, NHN Cloud, OpenAPI|2022.07~2022.10|[REPO](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector), [BLOG](https://velog.io/@juijeong8324/series/OSSCA)|
 |Tetris team project|Java, Java Swing|2022.02~05|[REPO](https://github.com/SE10team/Tetris_final), [Notion](https://www.notion.so/SE-9a7db99cc59247d795e8db65551cb87c)|
 |2022 Google Solution Challenge, TouchMyCoding|Flask, python, Google Cloud Vision API|2021.12~04|[REPO](https://github.com/gdsc-seoultech/touch_my_coding_back), [VIDEO](https://youtu.be/Mr5j7ncXz4E)|
