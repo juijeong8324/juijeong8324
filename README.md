@@ -58,7 +58,7 @@ I am Uijeong Jeon!
 |Anti-Forgery Parallel Processing|Python, MPI, Parallel Processing|2024.9~2024.12|[Report]()|
 |Swish(2024 SELab Summer Internship)|Prolog, javascript, jQurey|2024.6~2024.9|[REPO](https://github.com/seoultech-selab/swish), [Page](http://selogic.seoultech.ac.kr:3050/)|
 |PLAIN|Kotlin, Android, Compose|2023.10.21~2024.12|PRIVATE!|
-|Argo Workflows|Go, Kubernetes, Container, TypeScript|2023.7~2023.11|[REPO](https://github.com/Argo-OSS/argo-workflows), [BLOG](https://argoworkflows-oss.github.io/), [VELOG](https://velog.io/@juijeong8324/series/2023-OSSCA)|
+|Argo Workflows|Go, Kubernetes, Container, TypeScript|2023.7~2023.11|[REPO](https://github.com/Argo-OSS/argo-workflows), [BLOG](https://argo-oss.github.io/2023/activites/reports/fianlReportKo#contribute-info), [VELOG](https://velog.io/@juijeong8324/series/2023-OSSCA)|
 |STPhotoZone|Android, Java, ARCore, Firebase|2022.9~2022.12|[REPO](https://github.com/STPhotoZone/photoZone), [DEMO](https://www.youtube.com/watch?v=laC_sD8j0kU)|
 |[유방암의 임파선 전이 예측 AI 경진대회](https://dacon.io/competitions/official/236011/overview/description)|Pytorch, Scikit-Learn, pandas, numpy, cv2, Albmentations |2022.9~2022.12| [REPO](https://drive.google.com/file/d/1zwhzGn8e1i7p-g0binhF_ZxguUusbFJI/view?usp=sharing)|
 |NHN Toast Power Platform Connector|C#, .NET, Azure, NHN Cloud, OpenAPI|2022.07~2022.10|[REPO](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector), [BLOG](https://velog.io/@juijeong8324/series/OSSCA)|
