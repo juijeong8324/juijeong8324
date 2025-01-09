@@ -15,6 +15,18 @@
 
 ### Introduce
 I am Uijeong Jeon!        
+> 배움의 영역을 확장하며, 기획한 아이디어를 현실로 구현하는 전의정입니다.
+
+**다양한 분야의 기술을 익히고 프로젝트에 적용하며 경험**을 쌓아왔습니다. 
+- 클라이언트(웹, 모바일), ML/AI, 백엔드 등 프로젝트 경험
+- 총 2개의 오픈소스 프로젝트에 기여 경험
+- 전공 수업 대다수 이수
+
+**스스로 프로젝트를 기획하고 직접 구현합니다.**
+- StudyBuddy
+- ST AR Photozone
+
+
 **Motto : Is it possible?:question: I will make it possible.:exclamation:** 
 
 <br>
