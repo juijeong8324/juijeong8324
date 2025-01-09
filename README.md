@@ -56,7 +56,7 @@ I am Uijeong Jeon!
 |---|---|---|---|
 |StudyBuddy|Typescript, React, Express, MongoDB, Redis|2024.2~2024.11|[REPO](https://github.com/StudyBuddyCorps)|
 |Anti-Forgery Parallel Processing|Python, MPI, Parallel Processing|2024.9~2024.12|[Report]()|
-|Swish(2024 SELab Summer Internship)|Prolog, javascript, jQurey|2024.6~2024.9|[REPO](https://github.com/seoultech-selab/swish), [Page](http://selogic.seoultech.ac.kr:3050/)|
+|Swish(2024 SELab Summer Internship)|Prolog, javascript, jQurey|2024.6~2024.9|[REPO](https://github.com/seoultech-selab/swish), [PAGE](http://selogic.seoultech.ac.kr:3050/)|
 |PLAIN|Kotlin, Android, Compose|2023.10.21~2024.12|PRIVATE!|
 |Argo Workflows|Go, Kubernetes, Container, TypeScript|2023.7~2023.11|[REPO](https://github.com/Argo-OSS/argo-workflows), [BLOG](https://argo-oss.github.io/2023/activites/reports/fianlReportKo#contribute-info), [VELOG](https://velog.io/@juijeong8324/series/2023-OSSCA)|
 |STPhotoZone|Android, Java, ARCore, Firebase|2022.9~2022.12|[REPO](https://github.com/STPhotoZone/photoZone), [DEMO](https://www.youtube.com/watch?v=laC_sD8j0kU)|
