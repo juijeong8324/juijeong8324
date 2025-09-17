@@ -29,7 +29,7 @@
 <br>
 
 ### Project            
-|Project|Language&Environment|Date|Link|
+|Project|Language & Environment|Date|Link|
 |---|---|---|---|
 |StudyBuddy|Typescript, React, Express, MongoDB, Redis|2024.2~2024.11|[REPO](https://github.com/StudyBuddyCorps)|
 |Anti-Forgery Parallel Processing|Python, MPI, Parallel Processing|2024.9~2024.12|[Report](https://drive.google.com/file/d/16X0Oxy7gkE6j0DyagDbr4idUklpNDWnm/view?usp=sharing)|
