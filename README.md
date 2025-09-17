@@ -6,9 +6,6 @@
 <a href="https://velog.io/@juijeong8324" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>        
-<a href="https://blog.naver.com/gurum8021" target="_blank">
-<img src="https://img.shields.io/badge/naver-20c997?style=flat-square&logo=Naver&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/jeon01/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
@@ -51,7 +48,7 @@
 
 <br>
      
-### My Project            
+### Project            
 |Project|Language&Environment|Date|Link|
 |---|---|---|---|
 |StudyBuddy|Typescript, React, Express, MongoDB, Redis|2024.2~2024.11|[REPO](https://github.com/StudyBuddyCorps)|
