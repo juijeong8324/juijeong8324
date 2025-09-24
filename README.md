@@ -11,7 +11,7 @@
 </a>
 
 ### Introduction    
-> 배움의 영역을 확장하며, 기획한 아이디어를 현실로 구현하는 전의정입니다.
+> 배움의 영역을 확장하며, 기획한 아이디어를 현실로 구현하는 전의정입니다. <br>
 **Motto : Is it possible?:question: I will make it possible.:exclamation:** 
 
 <br>
