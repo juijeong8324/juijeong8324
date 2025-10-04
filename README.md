@@ -32,7 +32,6 @@
 |PLAIN|Kotlin, Android, Compose|2023.10.21~2024.12|PRIVATE!|
 |Argo Workflows|Go, Kubernetes, Container, TypeScript|2023.7~2023.11|[REPO](https://github.com/Argo-OSS/argo-workflows), [BLOG](https://argo-oss.github.io/2023/activites/reports/fianlReportKo#contribute-info), [VELOG](https://velog.io/@juijeong8324/series/2023-OSSCA)|
 |STPhotoZone|Android, Java, ARCore, Firebase|2022.9~2022.12|[REPO](https://github.com/STPhotoZone/photoZone), [DEMO](https://www.youtube.com/watch?v=laC_sD8j0kU)|
-(https://drive.google.com/file/d/1zwhzGn8e1i7p-g0binhF_ZxguUusbFJI/view?usp=sharing)|
 |NHN Toast Power Platform Connector|C#, .NET, Azure, NHN Cloud, OpenAPI|2022.07~2022.10|[REPO](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector), [BLOG](https://velog.io/@juijeong8324/series/OSSCA)|
 |Tetris team project|Java, Java Swing|2022.02~05|[REPO](https://github.com/SE10team/Tetris_final), [Notion](https://www.notion.so/SE-9a7db99cc59247d795e8db65551cb87c)|
 |색상을 보고 키워드를 도출하는 솔루션|python, openCV|2022.01|[REPO](https://github.com/juijeong8324/ReadColor)|
