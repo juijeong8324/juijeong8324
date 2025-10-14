@@ -35,17 +35,9 @@
 |NHN Toast Power Platform Connector|C#, .NET, Azure, NHN Cloud, OpenAPI|2022.07~2022.10|[REPO](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector), [BLOG](https://velog.io/@juijeong8324/series/OSSCA)|
 |Tetris team project|Java, Java Swing|2022.02~05|[REPO](https://github.com/SE10team/Tetris_final), [Notion](https://www.notion.so/SE-9a7db99cc59247d795e8db65551cb87c)|
 |색상을 보고 키워드를 도출하는 솔루션|python, openCV|2022.01|[REPO](https://github.com/juijeong8324/ReadColor)|
-|GDSC seoultech blog member page|markdown,javascript|2021.09~2021.10|[LINK](https://gdsc-seoultech.github.io/members/1)|
-|Momentrip|Andriod Stdio, Java|2021.05~12|[REPO](https://github.com/juijeong8324/Momentrip), [Notion](https://weak-meteoroid-883.notion.site/MomenTrip-a662703a6b7c41709bc1ab084a4f051c)|
+
   
 More projects to come!
-
-<br>
-
-### Experience
-#### Academy
-✏️**2024 Summer Internship at SE Lab : 24.06 ~ 24.09**          
-✏️**Assistant in Programming Language Theory at SeoulTech : 24.09 ~ 24.12**
 
 <br>
 
@@ -56,11 +48,7 @@ More projects to come!
 <br>
 
 #### Community           
-🦁**멋쟁이 사자처럼 at SeoulTech X UOS : 20.04 ~ 20.12** - 기부니가 좋다(기부 문화 개선 및 소상공인을 돕는 스타트업)         
-🌈**GDSC(Google Developer Student Clubs) Seoultech CORE : 21.12 ~ 22.02.06** - [링크](https://gdsc-seoultech.github.io/)         
-🌈**2022 GDSC KR Winter Hack Staff : 21.08 ~ 21.02**  - [링크](https://gdsckoreahackathon2022.github.io/#/)                 
-😎**Tools Leader : 22.02 ~ 22.12**             
-🌈**2022 Google I/O Extended: Summer Off-festival Staff : 22.05 ~ 22.07** - [링크](https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-google-io-extended-summer-off-festival/)       
+🦁**멋쟁이 사자처럼 at SeoulTech X UOS : 20.04 ~ 20.12** - 기부니가 좋다(기부 문화 개선 및 소상공인을 돕는 스타트업)                              
 💻**2022 Open Source Contribution Academy Lead Menty : Masters, 22.08 ~ 22.10** - [NHN Toast Power Platform Connector](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector)          
 
 <br>
@@ -73,7 +61,6 @@ More projects to come!
 ### Study
 Spring Study in Tools [Github](https://github.com/junyoii/we_study_spring)            
 Spring Boot JPA Study in Tools [Github](https://github.com/oh980225/JPA_Study)            
-Android Study in Tools [Notion](https://weak-meteoroid-883.notion.site/Android-App-programming-791ca9675497411db788ef2350d4b4d7)                   
-Kaggle Study [Blog](https://velog.io/@juijeong8324/series/%EC%BA%90%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94)                
+Android Study in Tools [Notion](https://weak-meteoroid-883.notion.site/Android-App-programming-791ca9675497411db788ef2350d4b4d7)                               
 ML/DL Study in GDSC seoultech [Blog](https://gdsc-seoultech.github.io/category/1st_term?tag=ml)                                                              
 Design Pattern in Tools [Github](https://github.com/leeeha/CS-Study)                     
