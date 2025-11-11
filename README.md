@@ -1,8 +1,8 @@
 # Welcome to My 💡Imagination Storage💡  
 
 
-<a href="https://juijeong8324.github.io" target="_blank">
-<img src="https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=Hugo&logoColor=white"/>
+<a href="https://letsgo8justice.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=tistory&logoColor=white"/>
 </a>        
 <a href="https://www.linkedin.com/in/jeon01/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
