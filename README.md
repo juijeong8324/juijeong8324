@@ -1,7 +1,10 @@
-# 
+# 💡Welcome to My Creative Hub💡
 
 ## Introduction    
-....???
+Hi, I’m Uijeong Jeon, an engineer interested in **designing and implementing core features across diverse domains.**
+- Currently exploring ML/AI and AIOps
+- Developed across Web, Mobile, and DevOps
+- Open-source contributor to Argo Workflows, NHN PowerPlatform, and Swish (Prolog IDE based WebAssembly).
 
 <br>
 
@@ -30,16 +33,11 @@
 
 <br>
 
-## Study
-Spring Study in Tools [Github](https://github.com/junyoii/we_study_spring)            
-Spring Boot JPA Study in Tools [Github](https://github.com/oh980225/JPA_Study)            
-Android Study in Tools [Notion](https://weak-meteoroid-883.notion.site/Android-App-programming-791ca9675497411db788ef2350d4b4d7)                               
-ML/DL Study in GDSC seoultech [Blog](https://gdsc-seoultech.github.io/category/1st_term?tag=ml)                                                              
-Design Pattern in Tools [Github](https://github.com/leeeha/CS-Study)                     
-
-<br>
-
-## Contact
+## Link
+</a>
+<a href="https://velog.io/@juijeong8324" target="_blank">
+<img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+</a>
 <a href="https://letsgo8justice.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=tistory&logoColor=white"/>
 </a>        
@@ -51,3 +49,12 @@ Design Pattern in Tools [Github](https://github.com/leeeha/CS-Study)
 
 ## Stats              
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qnddlek2)](https://solved.ac/qnddlek2)
+
+<br>
+
+## Study
+Spring Study in Tools [Github](https://github.com/junyoii/we_study_spring)            
+Spring Boot JPA Study in Tools [Github](https://github.com/oh980225/JPA_Study)            
+Android Study in Tools [Notion](https://weak-meteoroid-883.notion.site/Android-App-programming-791ca9675497411db788ef2350d4b4d7)                               
+ML/DL Study in GDSC seoultech [Blog](https://gdsc-seoultech.github.io/category/1st_term?tag=ml)                                                              
+Design Pattern in Tools [Github](https://github.com/leeeha/CS-Study)       
