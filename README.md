@@ -2,7 +2,9 @@
 
 ## Introduction    
 Hi, I’m Uijeong Jeon, an engineer interested in **designing and implementing core features across diverse domains.**
-- Currently exploring ML/AI and AIOps
+I aim to grow as a versatile IT generalist with the ability to dive deep and operate as a specialist whenever a specific domain requires it.
+
+- Currently exploring ML/AI and Security
 - Developed across Web, Mobile, and DevOps
 - Open-source contributor to Argo Workflows, NHN PowerPlatform, and Swish (Prolog IDE based WebAssembly).
 
@@ -57,4 +59,4 @@ Spring Study in Tools [Github](https://github.com/junyoii/we_study_spring)
 Spring Boot JPA Study in Tools [Github](https://github.com/oh980225/JPA_Study)            
 Android Study in Tools [Notion](https://weak-meteoroid-883.notion.site/Android-App-programming-791ca9675497411db788ef2350d4b4d7)                               
 ML/DL Study in GDSC seoultech [Blog](https://gdsc-seoultech.github.io/category/1st_term?tag=ml)                                                              
-Design Pattern in Tools [Github](https://github.com/leeeha/CS-Study)       
+Design Pattern in Tools [Github](https://github.com/leeeha/CS-Study)     
