@@ -1,10 +1,10 @@
 # 💡Welcome to My Creative Hub💡
 
 ## Introduction    
-Hi, I’m Uijeong Jeon, an engineer interested in **designing and implementing core features across diverse domains.**
-I aim to grow as a versatile IT generalist with the ability to dive deep and operate as a specialist whenever a specific domain requires it.
+Hi, I’m Uijeong Jeon. My experience spans diverse domains, but I thrive most when diving deep into complex systems.  
+I am growing from a broad, versatile generalist into a specialist—especially in ML/AI and system-level optimization—where I dive deep to understand how complex models and systems work.
 
-- Currently exploring ML/AI and Security
+- Currently exploring ML/AI and DevOps(MLOps, AIOps)
 - Developed across Web, Mobile, and DevOps
 - Open-source contributor to Argo Workflows, NHN PowerPlatform, and Swish (Prolog IDE based WebAssembly).
 
