@@ -1,20 +1,17 @@
 # 💡Welcome to My Creative Hub💡
 
 ## Introduction    
-Hi, I’m Uijeong Jeon. My experience spans diverse domains, but I thrive most when diving deep into complex systems.  
-I am growing from a broad, versatile generalist into a specialist—especially in ML/AI and system-level optimization—where I dive deep to understand how complex models and systems work.
+I explore machine learning systems from the inside out-analyzing how models actually compute, attend, and scale.        
+My current focus is ML/AI with an emphasis on system-level optimization, parallel execution, and understanding the internal mechanics of large models.
 
-- Currently exploring ML/AI and DevOps(MLOps, AIOps)
-- Developed across Web, Mobile, and DevOps
-- Open-source contributor to Argo Workflows, NHN PowerPlatform, and Swish (Prolog IDE based WebAssembly).
 
 <br>
 
 ## Featured Project            
 |Project|Language & Environment|Date|Link|
 |---|---|---|---|
+|FlashRush|Python, MPI, Parallel Processing, GAN|2024.12~ing|Major Revision, [REPO](https://github.com/juijeong8324/FlashRush)|
 |StudyBuddy|Typescript, React, Express, MongoDB, Redis|2024.2~2024.11|[REPO](https://github.com/StudyBuddyCorps)|
-|Anti-Forgery Parallel Processing|Python, MPI, Parallel Processing|2024.9~2024.12|[Report](https://drive.google.com/file/d/16X0Oxy7gkE6j0DyagDbr4idUklpNDWnm/view?usp=sharing)|
 |Swish(2024 SELab Summer Internship)|Prolog, javascript, jQurey|2024.6~2024.9|[REPO](https://github.com/seoultech-selab/swish), [PAGE](http://selogic.seoultech.ac.kr:3050/)|
 |PLAIN|Kotlin, Android, Compose|2023.10.21~2024.12|PRIVATE!|
 |Argo Workflows|Go, Kubernetes, Container, TypeScript|2023.7~2023.11|[REPO](https://github.com/Argo-OSS/argo-workflows), [BLOG](https://argo-oss.github.io/2023/activites/reports/fianlReportKo#contribute-info), [VELOG](https://velog.io/@juijeong8324/series/2023-OSSCA)|
