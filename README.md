@@ -10,8 +10,8 @@ My current focus is ML/AI with an emphasis on system-level optimization, paralle
 ## Featured Project            
 |Project|Language & Environment|Date|Link|
 |---|---|---|---|
+|StudyBuddy - v2|Typescript, React, Express, MongoDB, Redis|2024.2~ing|[REPO](https://github.com/StudyBuddyCorps)|
 |FlashRush|Python, MPI, Parallel Processing, GAN|2024.12~ing|Major Revision, [REPO](https://github.com/juijeong8324/FlashRush)|
-|StudyBuddy|Typescript, React, Express, MongoDB, Redis|2024.2~2024.11|[REPO](https://github.com/StudyBuddyCorps)|
 |Swish(2024 SELab Summer Internship)|Prolog, javascript, jQurey|2024.6~2024.9|[REPO](https://github.com/seoultech-selab/swish), [PAGE](http://selogic.seoultech.ac.kr:3050/)|
 |PLAIN|Kotlin, Android, Compose|2023.10.21~2024.12|PRIVATE!|
 |Argo Workflows|Go, Kubernetes, Container, TypeScript|2023.7~2023.11|[REPO](https://github.com/Argo-OSS/argo-workflows), [BLOG](https://argo-oss.github.io/2023/activites/reports/fianlReportKo#contribute-info), [VELOG](https://velog.io/@juijeong8324/series/2023-OSSCA)|
