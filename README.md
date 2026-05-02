@@ -47,11 +47,6 @@ My current focus is ML/AI with an emphasis on system-level optimization, paralle
 
 <br>
 
-## Stats              
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=qnddlek2)](https://solved.ac/qnddlek2)
-
-<br>
-
 ## Study
 Spring Study in Tools [Github](https://github.com/junyoii/we_study_spring)            
 Spring Boot JPA Study in Tools [Github](https://github.com/oh980225/JPA_Study)            
